@@ -3,6 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwooknam2023&theme=dark&show_icons=true)
 
 <hr>
+
 <strong>⚡Blog</strong>
 <div style="margin-top: 10px; margin-bottom: 10px;">
 <a href="https://ngwdeveloper.tistory.com/" target="_blank" rel="noopener noreferrer">
@@ -11,6 +12,7 @@
 </div>
 
 <hr>
+
 <strong>⚡Back-End</strong>
 <div style="margin-top: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="margin-right: 10px;"/>
@@ -18,6 +20,7 @@
 </div>
 
 <hr>
+
 <strong>⚡Front-End</strong>
 <div style="margin-top: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white" style="margin-right: 10px;"/>
@@ -33,6 +36,7 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 </div>
 <hr>
+
 <strong>⚡Cloud & CI/CD</strong>
 <div style="margin-top: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" style="margin-right: 10px;"/>
@@ -44,6 +48,7 @@
 </div>
 
 <hr>
+
 <strong>⚡ETC</strong>
 <div style="margin-top: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" style="margin-right: 10px;"/>
