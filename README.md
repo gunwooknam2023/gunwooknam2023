@@ -51,8 +51,8 @@
 
 <strong>⚡ETC</strong>
 <div style="margin-top: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" style="margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 </div>
 <hr>
 
