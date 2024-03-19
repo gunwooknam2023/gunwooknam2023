@@ -34,6 +34,8 @@
 <div style="margin-top: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white" style="margin-right: 10px;"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </div>
 <hr>
 
