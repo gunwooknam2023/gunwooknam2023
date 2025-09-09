@@ -31,6 +31,5 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=gunwooknam2023&theme=dark&show_icons=true)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=gunwooknam2023&theme=dark&hide_border=true)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwooknam2023&layout=compact&theme=dark)
 
 ---
