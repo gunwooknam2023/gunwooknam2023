@@ -1,82 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Back-End%20Developer%0A%EB%82%A8%EA%B1%B4%EC%9A%B1&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwooknam2023&theme=dark&show_icons=true)
-
-<hr>
-
-<strong>⚡Blog</strong>
-<div style="margin-top: 10px; margin-bottom: 10px;">
-<a href="https://ngwdeveloper.tistory.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>
-</a>
-</div>
-
-<hr>
-
-<strong>⚡Back-End</strong>
-<div style="margin-top: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-</div>
-
-<hr>
-
-<strong>⚡Front-End</strong>
-<div style="margin-top: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Css3-1572B6?style=flat&logo=css3&logoColor=white" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-</div>
-
-<hr>
-
-<strong>⚡DB</strong>
-<div style="margin-top: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongoDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-</div>
-<hr>
-
-<strong>⚡Cloud & CI/CD</strong>
-<div style="margin-top: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
-</div>
-<div style="margin-top: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-</div>
-
-<hr>
-
-<strong>⚡ETC</strong>
-<div style="margin-top: 10px; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-</div>
-<hr>
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Gunwook%20Nam%20|%20Backend%20Developer&fontColor=ffffff&fontSize=30&animation=twinkling&fontAlignY=40)
 
 
+## About Me
+- Backend Developer (Java · Spring Boot)  
+- 블로그에 개발 경험과 학습 내용을 꾸준히 공유하고 있습니다 [Tistory](https://ngwdeveloper.tistory.com/)
+
+<br>
 
 
+## Tech Stack
+
+| Category       | Stack                                                                 |
+|----------------|----------------------------------------------------------------------|
+| **Back-End**   | ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) |
+| **Front-End**  | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Database**   | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **DevOps**     | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) |
+| **Etc**        | ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 
 
+<br>
 
 
-<!--
-**gunwooknam2023/gunwooknam2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=gunwooknam2023&theme=dark&show_icons=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=gunwooknam2023&theme=dark&hide_border=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwooknam2023&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+---
