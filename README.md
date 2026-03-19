@@ -3,11 +3,19 @@
 
 
 ## About Me
-- Backend Developer (Java · Spring Boot)  
+- Backend Developer / Spring Boot(Java), Nest.js
 - 블로그에 개발 경험과 학습 내용을 꾸준히 공유하고 있습니다 [Tistory](https://ngwdeveloper.tistory.com/)
 
 <br>
 
+## Services
+- **[OneVote](https://onevote.kr)**  
+  다양한 이슈에 대해 사용자 참여형 찬반 토론과 투표를 제공하는 커뮤니티 서비스
+  
+- **[DevNote](https://devnote.kr)**  
+  뉴스, 유튜브 콘텐츠를 수집/분석하여 카테고리 및 트렌드를 제공하는 MSA 기반 플랫폼
+
+<br>
 
 ## Tech Stack
 
