@@ -9,10 +9,13 @@
 <br>
 
 ## Services
-- **[OneVote](https://onevote.kr)**  
+- **[주기록](https://jugirok.com)**  
+  청소와 물건 관리를 함께하고, 생활 노하우를 나누는 공간 관리 커뮤니티
+
+- **[한표](https://onevote.kr)**  
   다양한 이슈에 대해 사용자 참여형 찬반 토론과 투표를 제공하는 커뮤니티 서비스
   
-- **[DevNote](https://devnote.kr)**  
+- **[데브노트](https://devnote.kr)**  
   개발관련 뉴스, 유튜브 콘텐츠를 수집/분석하여 카테고리 및 트렌드를 제공하는 MSA 기반 플랫폼
 
 <br>
